@@ -1,3 +1,34 @@
+"뽀모도로 타이머"
+
+시작화면
+
+![시작화면](https://user-images.githubusercontent.com/62274608/122765875-e8c7a180-d2db-11eb-8040-e958b4cc025b.JPG)
+
+
+Calander 버튼을 눌렀을 때
+
+![캘린더](https://user-images.githubusercontent.com/62274608/122765951-f846ea80-d2db-11eb-8912-63102a26853e.JPG)
+
+TODO 버튼을 눌렀을 때
+
+![todo](https://user-images.githubusercontent.com/62274608/122765999-0268e900-d2dc-11eb-929a-57731eb40a3b.JPG)
+
+
+Timer 버튼을 눌렀을 때
+
+![타이머](https://user-images.githubusercontent.com/62274608/122766041-0ac12400-d2dc-11eb-8cdf-094c0992b759.JPG)
+
+Stop 버튼을 눌렀을 때
+
+![stop눌렀을때](https://user-images.githubusercontent.com/62274608/122766072-13b1f580-d2dc-11eb-901c-a8361a20a3a7.JPG)
+
+
+Login 버튼을 눌렀을 때
+
+![signin](https://user-images.githubusercontent.com/62274608/122766117-1f9db780-d2dc-11eb-84a5-25d39fe6bdd1.JPG)
+![로그인](https://user-images.githubusercontent.com/62274608/122766129-23313e80-d2dc-11eb-9a2f-a94071f3a63f.JPG)
+![complete](https://user-images.githubusercontent.com/62274608/122766137-25939880-d2dc-11eb-8eac-9428c412214b.JPG)
+
 # Material-Calendar-View
 
 Material-Calendar-View is a simple and customizable calendar widget for Android based on Material Design. The widget has two funcionalities: a date picker to select dates (available as an XML widget and a dialog) and a classic calendar. The date picker can work either as a single day picker, many days picker or range picker.
