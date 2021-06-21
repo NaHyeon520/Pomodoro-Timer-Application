@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "165715223466",
+    "project_id": "termproject-335aa",
+    "storage_bucket": "termproject-335aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165715223466:android:2e90c1c2624c1b133781d3",
+        "android_client_info": {
+          "package_name": "com.applandeo.materialcalendarsampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165715223466-9cp0rl77ufo4c4kpt1s5t1kr3qc6l7je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.applandeo.materialcalendarsampleapp",
+            "certificate_hash": "1f96fb83413fd83d46633bf67761b377d65445d3"
+          }
+        },
+        {
+          "client_id": "165715223466-oq0c00ld8nqvs7lr6pifsaqskdoodrfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbEsYr2HPuqYeIWZMDFdTc4gC1rz_wb1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165715223466-oq0c00ld8nqvs7lr6pifsaqskdoodrfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
