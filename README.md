@@ -24,7 +24,7 @@ The left-most picture above shows the initial calendar page.
 <img src="https://github.com/NaHyeon520/App_development_Term_Project/assets/62274608/e7c96016-ee99-464e-a808-bd6dce35a8ad" width="250" height="400"/>
 <img src="https://github.com/NaHyeon520/App_development_Term_Project/assets/62274608/458f58a0-c452-4474-aefa-fc18e8923ca8" width="250" height="400"/>
 
-The image above is the main page of the Pomodoro timer. Users can type their customized study time to the first input prompt, and rest time to the second input prompt. The study/rest timer will repeat until the user clicks "stop." After the user clicks stop, it will show the total study time, such as the second image. The default study/rest time value is 50 minutes and 10 minutes. 
+The image above is the main page of the Pomodoro timer. Users can type their customized study time to the first input prompt, and rest time to the second input prompt. The study/rest timer will repeat until the user clicks "stop." (Two timer objects will work and call each other after it's work is down) After the user clicks stop, it will show the total study time, such as the second image. The default study/rest time value is 50 minutes and 10 minutes. 
 (I mainly worked with this page)
 
 <br>
