@@ -1,5 +1,5 @@
 # App_development_Term_Project
-3학년 1학기 소프트웨어설계및실험 텀프로젝트-뽀모도로 타이머
+Computer Software Design & Lab: Term project named "Pomodoro Timer", May 2021 - July 2021
 
 <h2>Initial page</h2>
 <br>
